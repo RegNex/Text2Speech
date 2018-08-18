@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text2Speech</string>
+    <string name="enter_text_here_hint">Enter text here...</string>
+    <string name="speak_to_me">Speak to me!</string>
+</resources>
