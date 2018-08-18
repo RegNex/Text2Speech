@@ -13,7 +13,7 @@ cd folder/to/clone-into/
 ```
 
 ```
-git clone https://github.com/RegNex/text2speech.git
+git clone https://github.com/RegNex/Text2Speech.git
 ```
 
 Then 
